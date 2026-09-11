@@ -1,85 +1,54 @@
 # ¡Hola! Soy Michel Sofía Carazo Salmerón 
 
-Estudiante de último año de **Informática Empresarial en la Universidad de Costa Rica**, con formación en desarrollo de software, desarrollo web y bases de datos.
+Estudiante de último año de Informática Empresarial en la Universidad de Costa Rica, 
+interesada en el desarrollo de software y desarrollo web.
 
-Me interesa el desarrollo de aplicaciones y la creación de soluciones tecnológicas orientadas a resolver necesidades reales.
+## Sobre mí
+
+- Bachillerato en Informática Empresarial — Universidad de Costa Rica
+- Interés en desarrollo web y desarrollo de software
+- Experiencia con desarrollo frontend, backend, bases de datos y Oracle APEX
+- Experiencia trabajando con metodologías ágiles como Scrum y Kanban
 
 ## Tecnologías
 
 ### Lenguajes
-
-* Java
-* JavaScript
-* PHP
-* Python
+Java · JavaScript · PHP · Python
 
 ### Frameworks y librerías
-
-* Laravel
-* Angular
-* Vue.js
-* React
-* Bootstrap
+Laravel · Angular · Vue.js · React · Bootstrap
 
 ### Bases de datos
+MySQL · SQL Server · Firebase
 
-* MySQL
-* SQL Server
-* Firebase
-
-### Herramientas y tecnologías
-
-* Oracle APEX
-* Git / GitHub
-* Docker
-* Postman
-* Jira
-
-### Metodologías
-
-* Scrum
-* Kanban
-
-## Proyectos destacados
-
-### Verdulería Molina
-
-Sistema web para la gestión de una verdulería, con funcionalidades para administrar productos, clientes, proveedores, compras, ventas, abonos y otros movimientos del negocio.
-
-**Tecnologías:** Laravel, PHP, MySQL, JavaScript, Bootstrap.
-
-### Sistema de gestión académica — Reddecom
-
-Sistema orientado a la gestión administrativa de una academia y al control de estudiantes, docentes y cursos disponibles.
-
-**Tecnología principal:** Oracle APEX.
-
-### Plataforma de ecoturismo y observación de aves
-
-Proyecto web orientado a la gestión de fincas de ecoturismo, experiencias, reservas y observación de aves, con un diseño pensado para permitir su futura expansión a múltiples fincas.
-
-## Formación
-
-**Universidad de Costa Rica**
-Bachillerato en Informática Empresarial — Último año
+### Herramientas
+Oracle APEX · Git · GitHub · Docker · Postman · Jira
 
 ## Experiencia
 
-**Pasante de Desarrollo de Software — Reedecom Costa Rica**
-2026 – Actualidad
+### Pasante de Desarrollo de Software
+**Reedecom Costa Rica** · 2026 – Actualidad
 
-* Corrección de bugs y ajustes funcionales.
-* Pruebas de regresión antes de despliegues.
-* Desarrollo de funcionalidades y mejoras de UX.
-* Participación en code reviews.
-* Documentación técnica.
+- Corrección de errores y ajustes funcionales.
+- Desarrollo de funcionalidades y mejoras de interfaz.
+- Pruebas de regresión antes de despliegues.
+- Aplicación de reglas de negocio.
+- Participación en revisiones de código y documentación técnica.
 
-## Actualmente
+### Analista y Desarrollo Web
+**4Geeks Costa Rica** · 2022
 
-Estoy fortaleciendo mis conocimientos en desarrollo de software, desarrollo web, bases de datos y buenas prácticas de ingeniería de software.
+- Desarrollo y mantenimiento de interfaces web.
+- Trabajo con HTML, CSS y JavaScript.
+- Integración con bases de datos y APIs.
+- Participación en procesos de desarrollo bajo metodologías ágiles.
+
+## Formación
+
+**Universidad de Costa Rica**  
+Bachillerato en Informática Empresarial — Último año
 
 ## Contacto
 
-* 📧 [michelcarazosalmeron@gmail.com](mailto:michelcarazosalmeron@gmail.com)
-* 💼 LinkedIn(https://www.linkedin.com/in/michel-sof%C3%ADa-carazo-salmer%C3%B3n-876857245/)
-* 🐙 [GitHub](https://github.com/michelcarazosalmeron)
+Correo:michelcarazosalmeron@gmail.com(mailto:michelcarazosalmeron@gmail.com)
+LinkedIn:(https://www.linkedin.com/in/michel-sof%C3%ADa-carazo-salmer%C3%B3n-876857245/)
