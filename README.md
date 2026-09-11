@@ -50,5 +50,6 @@ Bachillerato en Informática Empresarial — Último año
 
 ## Contacto
 
-Correo:michelcarazosalmeron@gmail.com(mailto:michelcarazosalmeron@gmail.com)
-LinkedIn:(https://www.linkedin.com/in/michel-sof%C3%ADa-carazo-salmer%C3%B3n-876857245/)
+Contacto
+ michelcarazosalmeron@gmail.com
+
